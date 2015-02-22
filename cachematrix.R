@@ -1,4 +1,4 @@
-#This script contains two functions: makeCacheMatrix and cacheSolve. The idea is
+#This script contains two functions: makeCacheMatrix and cacheSolve.
 #
 #makeCacheMatrix is an object-function- that has a matrix as argument.The object 
 #       contains four functions/methods: set,get,setInverse and getInverse 
